@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+
+# 日志
+logs/
+
+# 模型文件
+models/
+
+# 输出文件
+output/
+faces/
+*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.spec 
